@@ -1,0 +1,75 @@
+#body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:brown;
+}
+
+#byMe{
+    font-size: 10px;
+    color: white;
+    font-weight: lighter;
+}
+
+#me{
+    text-decoration: none;
+    color: white;
+    font-weight: lighter;
+}
+
+#carre{
+    background-color:white;
+    width: 550px;
+}
+
+#display{
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.icon-link{
+    text-decoration: none;
+    margin-left: 3px;
+    font-size: 30px;
+    color:brown;
+}
+ 
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+  }
+
+#quotebtn{
+    border: none;
+    color:white;
+    background-color: brown;
+}
+
+#quote{
+    color: brown;
+    margin-top: 3vh;
+}
+
+#author{
+    color: brown;
+    margin-left: 28vh;
+    margin-top: 3vh;
+}
+
+.icon{
+    text-decoration: none;
+    margin-left: 3px;
+    font-size: 30px;
+    color:brown;
+}
+
+#quoteicon1{
+    margin-top:3vh;
+}
+
+#quotediv{
+    display: flex;
+    justify-content: center;
+    gap: 1vh;
+}
