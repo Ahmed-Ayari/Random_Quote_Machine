@@ -22,7 +22,7 @@ This is a simple random quote generator project built with HTML, CSS, and JavaSc
 ![Screenshot 2](https://github.com/Sphynx6/Random_Quote_Machine/blob/main/Quote_Generator/screenshot2.png)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/Sphynx6/Random_Quote_Machine.git`
+1. Clone the repository: `git clone https://github.com/Ahmed-Ayari/Random_Quote_Machine.git`
 2. Open the project directory.
 3. Open the `index.html` file in a web browser.
 
